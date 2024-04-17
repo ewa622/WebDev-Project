@@ -1,0 +1,39 @@
+h1{
+    color: rgb(2, 43, 2)
+}
+
+.edu{
+    line-height:25%;
+    font-size:medium;
+    font-weight:bold;
+}
+
+.major{
+    line-height:25%;
+    font-style:italic;
+    font-size:medium;
+}
+
+.clubs{
+    font-size: small;
+}
+
+.work{
+    line-height:25%;
+    font-weight:bold; 
+    font-size:medium
+}
+
+.jobDescript{
+    line-height:25%;
+    font-style:italic;
+    font-size:medium;
+}
+
+.jobSkills{
+    font-size:small;
+}
+
+.skills{
+    font-size:small;
+}

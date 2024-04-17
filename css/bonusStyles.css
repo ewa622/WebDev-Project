@@ -1,0 +1,51 @@
+body{
+    background-color:floralwhite;
+}
+
+.anchor{
+    text-align:right;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight:bold;
+}
+.header{
+    text-align: center;
+    line-height: 15px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #002E5D;
+}
+.define{
+    text-align:center;
+    text-align-last:center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    position:relative;
+}
+
+.list{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align:center;
+}
+
+ol.myOl{
+    display:inline-block;
+    text-align:left;
+}
+
+.image{
+    text-align:center;
+}
+
+.YouTube{
+    text-align:center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.TableauPart{
+    text-align:center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:#002E5D;
+}
+
+.tableauPlaceholder{
+    width:500px;
+    height:1000px;
+}
